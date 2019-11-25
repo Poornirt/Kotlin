@@ -6,7 +6,9 @@ fun returnValue(obj:Any):String=when(obj){
     else -> "Nothing"
 }
 
+
 fun main(){
    println(returnValue(32))
-    println(returnValue(313))
+    println(returnValue(313
+    ))
 }

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/CheckNull.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/Nullable.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/forSample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/whenSample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/ClassAndConstructor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/whenSample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/whenSample.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
