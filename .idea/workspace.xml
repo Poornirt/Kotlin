@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Functions/ConstructorExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/InnerClassExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/InterfaceOverride.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/OverrideSample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/WhenSampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/WhenSampleKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/ClassAndConstructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/ClassAndConstructor.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -41,20 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Functions.ClassAndConstructorKt">
-    <configuration name="Functions.CheckNullKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.CheckNullKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Functions.InnerClassExampleKt">
     <configuration name="Functions.ClassAndConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
@@ -81,14 +71,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions.NullableKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Functions.InnerClassExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.NullableKt" />
+      <option name="MAIN_CLASS_NAME" value="Functions.InnerClassExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions.InterfaceOverrideKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Functions.InterfaceOverrideKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Functions.InnerClassExampleKt" />
+        <item itemvalue="Kotlin.Functions.InterfaceOverrideKt" />
         <item itemvalue="Kotlin.Functions.ClassAndConstructorKt" />
         <item itemvalue="Kotlin.Functions.WhenSampleKt" />
         <item itemvalue="Kotlin.Functions.ForSampleKt" />
-        <item itemvalue="Kotlin.Functions.CheckNullKt" />
-        <item itemvalue="Kotlin.Functions.NullableKt" />
       </list>
     </recent_temporary>
   </component>
