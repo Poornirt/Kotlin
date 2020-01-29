@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/ConstructorExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/InnerClassExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/InterfaceOverride.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/OverrideSample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DelegateProperties/ObservableProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DelegateProperties/VetoableProperty.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DelegateProperties/lazyProperty.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
     </list>
@@ -18,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
-        <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -44,28 +43,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Functions.InnerClassExampleKt">
-    <configuration name="Functions.ClassAndConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.DelegateProperties.VetoablePropertyKt">
+    <configuration name="DelegateProperties.LazyPropertyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.ClassAndConstructorKt" />
+      <option name="MAIN_CLASS_NAME" value="DelegateProperties.LazyPropertyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions.ForSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="DelegateProperties.ObservablePropertyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.ForSampleKt" />
+      <option name="MAIN_CLASS_NAME" value="DelegateProperties.ObservablePropertyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelegateProperties.VetoablePropertyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="DelegateProperties.VetoablePropertyKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions.WhenSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.WhenSampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DelegateProperties.VetoablePropertyKt" />
+        <item itemvalue="Kotlin.DelegateProperties.ObservablePropertyKt" />
+        <item itemvalue="Kotlin.DelegateProperties.LazyPropertyKt" />
         <item itemvalue="Kotlin.Functions.InnerClassExampleKt" />
         <item itemvalue="Kotlin.Functions.InterfaceOverrideKt" />
-        <item itemvalue="Kotlin.Functions.ClassAndConstructorKt" />
-        <item itemvalue="Kotlin.Functions.WhenSampleKt" />
-        <item itemvalue="Kotlin.Functions.ForSampleKt" />
       </list>
     </recent_temporary>
   </component>
