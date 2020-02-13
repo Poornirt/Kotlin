@@ -27,7 +27,7 @@ class B: varargSample() {
     override fun callThisFunction(test: String, vararg arrayoFObj: Any, test1: String) {
         println(test1)
         val list = arrayOf(1,2,3)
-        testingSpreadOperator(*list,"76")
+        testingSpreadOperator(*list)
     }
 
     fun testingSpreadOperator(vararg sample1:Any,sample2:Any=23){
