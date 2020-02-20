@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/HigherOrderFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/GenericsExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/VarargSampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/VarargSampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt$main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/varargSample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/varargSample.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,20 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Functions.HigherOrderFunctionKt">
-    <configuration name="CompanionInstanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="CompanionInstanceKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Functions.GenericsExampleKt">
     <configuration name="DelegationPattern.PatternDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
@@ -66,6 +52,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="DelegationPattern.PatternDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions.GenericsExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Functions.GenericsExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Functions.GenericsExampleKt" />
         <item itemvalue="Kotlin.Functions.HigherOrderFunctionKt" />
         <item itemvalue="Kotlin.Functions.VarargSampleKt" />
         <item itemvalue="Kotlin.DelegationPattern.PatternDemoKt" />
         <item itemvalue="Kotlin.TypaliasSampleKt" />
-        <item itemvalue="Kotlin.CompanionInstanceKt" />
       </list>
     </recent_temporary>
   </component>
