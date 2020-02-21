@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/GenericsExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/ContravarianceExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Functions/CovarianceExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/HigherOrderFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
