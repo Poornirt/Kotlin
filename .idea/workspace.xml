@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Functions/ContravarianceExample.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Functions/CovarianceExample.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ListDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ListExample.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/GenericsExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/GenericsExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/GenericsExampleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Functions/GenericsExampleKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/ContravarianceExample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/ContravarianceExample.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,15 +45,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Functions.GenericsExampleKt">
-    <configuration name="DelegationPattern.PatternDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Collections.ListExampleKt">
+    <configuration name="Collections.ListDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DelegationPattern.PatternDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.ListDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collections.ListExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Collections.ListExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions.ContravarianceExampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Functions.ContravarianceExampleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,39 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Functions.VarargSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Functions.VarargSampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypaliasSampleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="TypaliasSampleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Collections.ListExampleKt" />
+        <item itemvalue="Kotlin.Collections.ListDemoKt" />
+        <item itemvalue="Kotlin.Functions.ContravarianceExampleKt" />
         <item itemvalue="Kotlin.Functions.GenericsExampleKt" />
         <item itemvalue="Kotlin.Functions.HigherOrderFunctionKt" />
-        <item itemvalue="Kotlin.Functions.VarargSampleKt" />
-        <item itemvalue="Kotlin.DelegationPattern.PatternDemoKt" />
-        <item itemvalue="Kotlin.TypaliasSampleKt" />
       </list>
     </recent_temporary>
   </component>

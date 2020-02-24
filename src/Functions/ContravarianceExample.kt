@@ -10,5 +10,5 @@ class ContravarianceExample<in T>(value: T) {
 fun main() {
     var a: CovarianceExample<Int>
     var b = CovarianceExample<Any>(3)
-    a = b
+    a = b as CovarianceExample<Int>
 }
