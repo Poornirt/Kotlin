@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections/FilterType1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/FilterType2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/FilterType3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/IteratorsDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/IteratorsDemo1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
     </list>
@@ -43,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Collections.FilterType3Kt">
+  <component name="RunManager" selected="Kotlin.Collections.IteratorsDemo1Kt">
     <configuration name="Collections.FilterType1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
@@ -83,27 +82,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.MapDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.IteratorsDemo1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.MapDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.IteratorsDemo1Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.SetDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.IteratorsDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.SetDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.IteratorsDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Collections.IteratorsDemo1Kt" />
+        <item itemvalue="Kotlin.Collections.IteratorsDemoKt" />
         <item itemvalue="Kotlin.Collections.FilterType3Kt" />
         <item itemvalue="Kotlin.Collections.FilterType2Kt" />
         <item itemvalue="Kotlin.Collections.FilterType1Kt" />
-        <item itemvalue="Kotlin.Collections.MapDemoKt" />
-        <item itemvalue="Kotlin.Collections.SetDemoKt" />
       </list>
     </recent_temporary>
   </component>
