@@ -8,4 +8,7 @@ fun main() {
     val mapIOf = mapOf(1 to "name1",2 to "name2",3 to "name3")
     val filterMap=mapIOf.filter { (key,value) -> key.equals(1) || value.endsWith("3")  }
     println(filterMap)
+
+
+    println((1..4).filter { it%2!=0 })
 }
