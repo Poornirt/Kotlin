@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections/RangeDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/SequenceDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/MappingDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ZippingDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/FilterType1Kt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/FilterType1Kt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/SequenceDemoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/SequenceDemoKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/FilterType1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/FilterType1.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Collections.SequenceDemoKt">
+  <component name="RunManager" selected="Kotlin.Collections.ZippingDemoKt">
     <configuration name="Collections.FilterType1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
@@ -58,27 +57,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.IteratorsDemo1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.MappingDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.IteratorsDemo1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Collections.IteratorsDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinBasics" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.IteratorsDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.MappingDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -110,13 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Collections.ZippingDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Collections.ZippingDemoKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Collections.ZippingDemoKt" />
+        <item itemvalue="Kotlin.Collections.MappingDemoKt" />
         <item itemvalue="Kotlin.Collections.SequenceDemoKt" />
         <item itemvalue="Kotlin.Collections.FilterType1Kt" />
         <item itemvalue="Kotlin.Collections.RangeDemoKt" />
-        <item itemvalue="Kotlin.Collections.IteratorsDemo1Kt" />
-        <item itemvalue="Kotlin.Collections.IteratorsDemoKt" />
       </list>
     </recent_temporary>
   </component>
