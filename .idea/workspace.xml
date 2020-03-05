@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16587910-fe74-4923-af94-7b34ef95cafa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections/MappingDemo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/ZippingDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/ChunkedDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/SliceDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/TakeAndDropDemo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/WindowedDemo.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/SequenceDemoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/Collections/SequenceDemoKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinBasics/META-INF/KotlinBasics.kotlin_module" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,54 +44,54 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.Collections.ZippingDemoKt">
-    <configuration name="Collections.FilterType1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Collections.WindowedDemoKt">
+    <configuration name="Collections.ChunkedDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.FilterType1Kt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.ChunkedDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.MappingDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.SliceDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.MappingDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.SliceDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.RangeDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.TakeAndDropDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.RangeDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.TakeAndDropDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Collections.SequenceDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Collections.WindowedDemoKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasics" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Collections.SequenceDemoKt" />
+      <option name="MAIN_CLASS_NAME" value="Collections.WindowedDemoKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Collections.WindowedDemoKt" />
+        <item itemvalue="Kotlin.Collections.ChunkedDemoKt" />
+        <item itemvalue="Kotlin.Collections.TakeAndDropDemoKt" />
+        <item itemvalue="Kotlin.Collections.SliceDemoKt" />
         <item itemvalue="Kotlin.Collections.ZippingDemoKt" />
-        <item itemvalue="Kotlin.Collections.MappingDemoKt" />
-        <item itemvalue="Kotlin.Collections.SequenceDemoKt" />
-        <item itemvalue="Kotlin.Collections.FilterType1Kt" />
-        <item itemvalue="Kotlin.Collections.RangeDemoKt" />
       </list>
     </recent_temporary>
   </component>
